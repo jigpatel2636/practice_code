@@ -1,0 +1,7 @@
+switch-names,ports,Incoming-BPS, Outgoing-BPS
+SW-A,ge-0/0/1,1234,3432
+SW-B,ge-0/0/2,323232,232312
+SW-C,ge-0/0/3,32423,342312
+SW-D,ge-0/0/3,121,243
+SW-E,ge-0/0/4,534233432,2532423
+SW-F,ge-0/0/4,23232,332323
