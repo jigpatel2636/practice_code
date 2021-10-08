@@ -1,0 +1,5 @@
+sw1, eth1, 500pps, 5000pps
+sw2, eth2, 13pps, 667 pps
+sw3, eth3, 1223pps, 2423pps
+sw4, eth4, 342pps, 2323pps
+sw5, eth5, 232pps, 4543pps

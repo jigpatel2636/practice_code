@@ -1,0 +1,54 @@
+A friend of mine has been asked a question in his coding round call: Given a file containing switch names, ports, Incoming BPS, Outgoing BPS. He had to find out the top talking switches using automation/scripting. He had done it in python. The role he interviewed for is Network Engineer, Corp. He Passed :)
+
+Here are some of the questions gathered from all over the internet for FB Network Engineer coding questions to help future applicants
+
+For all networking roles at FB here is the common questions one can get:
+Goat Latin dictionary
+--Dinosaur question
+palindrome, arrange vowel and then consonant and given string, Regex
+#Basic questions about python ,
+#· Linux / automation, Scripting(Regex will be helpful)
+---Given that: '1' mapped to--> 'a', '2' -->'b' , '3'--> 'c'...like wise... '26'-->'z'.
+Output should be in the following pattern :
+Ex.1) if we input f="111", the output should be: aaa, ak, ka
+//(111)->aaa, (1, 11)->ak, (11,1)->ka
+Ex. 2) f="131" output: aca, ma
+//(131)->aca, (13,1)->ma
+Ex. 3) f="101", output: ja
+//(10,1)->ja
+Focus more on.... Lists... Dictionaries... Srtring.... Manipulating data in above data structures (geeksforgeeeks. Com has good practice questions for above data structures)
+(bidsarmanish. Com also has good practice exercises.... Do all of these.... And you will be confident)
+--Also cover accessing csv files and manipulating or deriving results from the data in these file
+--Stupid simple. Sort using built in sort with python. But he seemed more interested in the full end to end read data file, do work, present results than a typical SWE big O bs algorithm question.
+--Given an array of integers and an integer k, you need to find the total number of continuous subarrays whose sum equals to k.
+--Given an array of integers greater than zero, find if it is possible to split it in two subarrays (without reordering the elements), such that the sum of the two subarrays is the same. Print the two subarrays.
+--count occurance of each element in the list
+--there are two list, find the common items in both of the list
+--given a csv file process the data and find the higest values
+-Given a set of distinct integers, nums, return all possible subsets (the power set).
+
+Given a non-empty string s, you may delete at most one character. Judge whether you can make it a palindrome.
+Example 1:
+Input: "aba"
+Output: True
+Example 2:
+Input: "abca"
+Output: True
+Explanation: You could delete the character 'c'.
+
+-Implement a basic calculator to evaluate a simple expression string.
+
+The expression string contains only non-negative integers, +, -, *, / operators and empty spaces . The integer division should truncate toward zero.
+Example 1:
+Input: "3+2*2"
+Output: 7
+Example 2:
+Input: " 3/2 "
+Output: 1
+
+Writing a script to poll a number of network devices
+· Writing a function to sort an array
+· Writing a function to search for specific words in a file and remove them from the file
+· Writing a function to remove duplicates from an array
+· Writing a function that reads a list of hostnames and resolves each IP address and print them Writing a function that monitors a running application (e.g. parse one of the memory columns from the output of vmstat or the free command. And if the memory value exceeds a certain threshold for more than a certain timeframe, then print a report to alert the Ops team.)
+· The questions can be a real problem, or something contrived to use these skills.
